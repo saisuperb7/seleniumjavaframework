@@ -1,0 +1,8 @@
+[INFO ] 2019-05-05 19:13:35.777 [main] Log4jDemo - this is info
+[ERROR] 2019-05-05 19:13:35.777 [main] Log4jDemo - this is error
+[FATAL] 2019-05-05 19:13:35.777 [main] Log4jDemo - this is fatal
+[WARN ] 2019-05-05 19:13:35.777 [main] Log4jDemo - this is warn
+[INFO ] 2019-05-05 21:22:27.957 [main] Log4jDemo - this is info
+[ERROR] 2019-05-05 21:22:28.023 [main] Log4jDemo - this is error
+[FATAL] 2019-05-05 21:22:28.024 [main] Log4jDemo - this is fatal
+[WARN ] 2019-05-05 21:22:28.025 [main] Log4jDemo - this is warn
